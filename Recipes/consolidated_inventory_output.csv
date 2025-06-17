@@ -1,0 +1,174 @@
+Supplier Name,Inventory Item Name,Brand,Inventory Unit of Measure,Item Name,Item Number,Quantity In Case,Measurement Of Each Item,Measured In,Total Units,Case Price,Catch Weight,Priced By,Splitable,Split Price,Cost  of a Each Item,Source File,Last Updated At,Active,Cost of a Unit
+Ace Wholesale,"Galleta, Maria",N/A,each,Galleta Maria,N/A,1,1,each,N/A,N/A,No,N/A,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+Ace Wholesale,"Horchata, Natura's",N/A,each,Natura's Horchata,N/A,1,1,each,N/A,N/A,No,N/A,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+Ace Wholesale,"Champurrado, Natura's",N/A,each,Natura's Champurrado,N/A,1,1,each,N/A,N/A,No,N/A,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+Carrusel Bakery,"Concha, Vanilla",Carrusel,Case,"Concha, Vanilla",N/A,60,1,Each,60,22.8,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Concha, Chocolate",Carrusel,Case,"Concha, Chocolate",N/A,60,1,Each,60,22.8,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Concha, Pink",Carrusel,Case,"Concha, Pink",N/A,60,1,each,60,22.8,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Concha, Mazapan",Carrusel,Case,"Concha, Mazapan",N/A,100,1,each,100,38,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Concha, Pumpkin Spice",Carrusel,Case,"Concha, Pumpkin Spice",N/A,100,1,Case,100,38,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,Oreja,Carrusel,Case,Oreja,N/A,45,1,each,45,17.1,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Envuelto, Nino",Carrusel,Case,Nino Envuelto,N/A,45,1,each,45,17.1,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Galleta, Chocolate",Carrusel,Case,"Galleta, Chocolate",N/A,45,1,each,45,17.1,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Galleta, Sprinkles",Carrusel,Case,"Galleta, Sprinkles",N/A,45,1,each,45,17.1,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Galleta, Payaso",Carrusel,Case,"Galleta, Payaso",N/A,45,1,each,45,17.1,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Galleta, Sevillano",Carrusel,Case,"Galleta, Sevillano",N/A,45,1,each,45,17.1,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Carrusel Bakery,"Pumpkin, Loaf",Carrusel,Case,Pumpkin Loaf,N/A,25,1,each,25,15.5,No,Case,No,N/A,0.62,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.62
+Carrusel Bakery,Cake,Carrusel,Case,"Cake, Original",N/A,12,1,each,12,25.68,No,Case,No,N/A,2.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.14
+Carrusel Bakery,"Cake, Horchata",Carrusel,Case,"Cake, Horchata",N/A,12,1,each,12,25.68,No,Case,No,N/A,2.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.14
+Carrusel Bakery,"Cake, Gansito",Carrusel,Case,"Cake, Gansito",N/A,12,1,each,12,25.68,No,Case,No,N/A,2.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.14
+Carrusel Bakery,"Cake, Chocolate",Carrusel,Case,"Cake, Chocolate",N/A,12,1,each,12,25.68,No,Case,No,N/A,2.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.14
+Carrusel Bakery,"Cake, Red Velvet",Carrusel,Case,"Cake, Red Velvet",N/A,12,1,each,12,25.68,No,Case,No,N/A,2.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.14
+Carrusel Bakery,"Cake, Pumpkin Pie",Carrusel,Case,"Cake, Pumpkin Pie",N/A,12,1,each,12,25.68,No,Case,No,N/A,2.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.14
+Corazon Catering,"Bulk, Cebolla Morada",N/A,case,"Bulk Food, Cebolla Morada",N/A,1,1,pounds,1,3.56,Yes,Case,Yes,3.56,3.56,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.56
+Corazon Catering,"Bulk, Chorizo con Papa",N/A,Case,"Bulk Food, Chorizo con Papa",N/A,1,1,Pounds,1,3.9,Yes,Case,Yes,3.9,3.9,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.9
+Corazon Catering,"Burrito, Chorizo con Papa",N/A,Each,"Burrito, Chorizo con Papa",N/A,1,1,Each,1,1.853,No,Unit,No,N/A,1.853,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.853
+Corazon Catering,"Burrito, Huevo con Chorizo",N/A,Each,"Burrito, Huevo con Chorizo",N/A,1,1,Each,1,1.853,No,Unit,No,N/A,1.853,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.853
+Corazon Catering,"Empanada, Birria",N/A,each,"Empanada, Birria",N/A,1,1,each,1,1.154,No,Unit,No,N/A,1.154,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.154
+Corazon Catering,"Empanada, Chorizo con Papa",N/A,Each,"Empanada, Chorizo con Papa",N/A,1,1,Each,1,1.014,No,Unit,No,N/A,1.014,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.014
+Corazon Catering,"Empanada, Rajas con Queso",N/A,Each,"Empanada, Rajas con Queso",N/A,1,1,Each,1,0.764,No,Unit,No,N/A,0.764,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.764
+Corazon Catering,"Empanada, Tinga de Pollo",N/A,each,"Empanada, Tinga de Pollo",N/A,1,1,each,1,0.944,No,Unit,No,N/A,0.944,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.944
+Corazon Catering,"Sauce, Aioli",N/A,case,"Salsa, Aioli",N/A,1,1,pound,1,2.4,Yes,Case,Yes,2.4,2.4,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.4
+Corazon Catering,"Sauce, Chile Relleno",N/A,case,"Salsa, Chile Relleno",N/A,1,1,pounds,1,2.4,Yes,Case,Yes,2.4,2.4,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.4
+Corazon Catering,"Sauce, Roja",N/A,case,"Salsa, Roja",N/A,1,1,pound,1,2.4,Yes,Case,Yes,2.4,2.4,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.4
+Costco,"Cinnamon Sticks, Saigon",Old Thompson,each,Saigon Cinnamon Sticks,1266615,1,6.6,oz,1,N/A,No,Unit,No,N/A,6.59,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.998484848
+Costco,"Cookies, Chocolate Sandwich",Oreo,case,"Chocolate Sandwich Cookies, Stay Fresh Packs",1664082,12,12,each,12,12.59,No,Case,No,N/A,1.05,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.0875
+Costco,"Batteries, Alkaline AA Signature",Kirkland,case,Signature Alkaline AA Batteries,2322010,48,1,each,48,18.19,No,Case,No,N/A,0.38,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.38
+Costco,"Croissant, All Butter",Au Pain Dore,each,"Croissants, All Butter",1769976,1,2.5,oz,1,N/A,No,Unit,No,N/A,15.79,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,6.316
+Costco,"Hash Brown Patties, Golden",Ore-Ida,each,Golden Hash Brown Patties,562303,1,2.8,lbs,1,N/A,Yes,Unit,Yes,34.99,34.99,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,12.49642857
+Costco,"Milk, Sweetened Condensed",Kirkland,each,Sweetened Condensed Milk,1581546,1,6,oz,1,N/A,No,Unit,No,N/A,10.59,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.765
+Costco,"Cinnamon, Ground Saigon Organic",Kirkland,each,Organic Ground Saigon Cinnamon,1124845,1,10.7,oz,1,N/A,No,Unit,No,N/A,5.59,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.522429907
+Costco,"Mazapan, Peanut Candy",de la Rosa,case,Mazapan Mexican Peanut Candy,1721025,40,1,oz,40,8.29,No,Case,No,N/A,0.21,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.21
+Costco,"Almonds, Raw Sliced",Kirkland,each,"Sliced Raw Almonds, Baking Nuts",1495072,1,5,lbs,1,N/A,Yes,Unit,Yes,18.19,18.19,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.638
+Divine Specialties,"Crumb Cake, Old Fashion",N/A,Case,Old Fashion Crumb Cake,FCCCO,96,1,Each,96,118.04,No,Case,No,N/A,1.23,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.23
+Divine Specialties,"Cheesecake, Cookies & Cream",N/A,Case,Cookies & Cream Cheesecake,JJ145,24,1,each,24,83.4,No,Case,No,N/A,3.48,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.48
+Divine Specialties,"Cheesecake, Mocha Hazelnut",N/A,Case,Mocha Hazelnut Cheesecake,JJ520,24,1,Each,24,78.06,No,Case,No,N/A,3.25,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.25
+Divine Specialties,"Cheesecake, Kahlua Almond",N/A,Case,Kahlua Almond Cheesecake,JJ170,24,1,each,24,78.06,No,Case,No,N/A,3.25,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.25
+Divine Specialties,"Cheesecake, Pumpkin Praline",N/A,Case,Pumpkin Praline Cheesecake,JJ242,24,1,Each,24,87.14,No,Case,No,N/A,3.63,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.63
+Gavina Coffee,"Coffee, Colombia Supremo Whole Bean",N/A,case,COLOMBIA SUPREMO WB BAG,2192,2,5,pounds,10,83.5,Yes,Case,Yes,83.5,8.35,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.67
+Gavina Coffee,"Coffee, Decaf Espresso Roast Whole Bean",N/A,case,DECAF ESPRESSO ROAST W/B BAG,226,1,5,pounds,5,41.75,Yes,Case,Yes,41.75,8.35,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.67
+Gavina Coffee,"Coffee, Northwest Blend Dark Whole Bean",N/A,case,NORTHWEST BLEND DARK W/B BAG,394,1,5,pounds,5,41.25,Yes,Case,Yes,41.25,8.25,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.65
+Gavina Coffee,"Coffee, Espresso Nuevo Mundo Whole Bean",N/A,case,ESPRESSO NUEVO MUNDO WB BAG,9000,8,2,pounds,16,163.2,Yes,Case,Yes,163.2,10.2,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,5.1
+Gavina Coffee,"Coffee, Northwest Blend Dark Ground",N/A,case,NORTHWEST BLD DARK GRND Portion Pack,782,42,2.5,ounces,42,55.68,No,Case,No,N/A,1.32,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.528
+Gavina Coffee,"Coffee, Generic Double Espresso Pod Ground",Generic,case,GENERIC DCF DBL ESPRESSO POD GRND,696,70,1,each,70,34.9,No,Case,No,N/A,0.5,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.5
+Gavina Coffee,"Tea, Iced Organic Hibiscus",N/A,case,ICED TEA ORG HIBISCUS PORTION PACK,3353,30,3,ounces,30,75,No,Case,No,N/A,2.5,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.833333333
+Gavina Coffee,"Coffee, Vanilla Latte Smoothie Mix",N/A,case,VANILLA LATTE CAFE D'VITA SMOOTHIE MIX,2103,5,3.5,pounds,17.5,92.5,Yes,Case,Yes,92.5,5.29,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.511428571
+Gavina Coffee,"Smoothie Mix, Horchata Baristatude",N/A,case,BARISTATUDE HORCHATA SMOOTHIE MIX,2186,6,2,pounds,12,63.5,Yes,Case,Yes,63.5,5.29,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,2.645
+Gavina Coffee,"Syrup, Vanilla Sugar-Free",N/A,case,TORANI SUGAR FREE VANILLA SYRUP,2001,12,750,milliliters,9,73.08,No,Case,No,N/A,8.09,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.010786667
+Gavina Coffee,"Syrup, Strawberry",N/A,case,TORANI STRAWBERRY SYRUP,2006,12,750,milliliters,9,73.08,No,Case,No,N/A,8.09,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.010786667
+Gavina Coffee,"Syrup, Caramel Sugar-Free",N/A,case,TORANI SUGAR FREE CARAMEL SYRUP,2016,12,750,milliliters,9,73.08,No,Case,No,N/A,8.09,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.010786667
+Gavina Coffee,"Syrup, Caramel Puremade",N/A,case,TORANI PUREMD CARAMEL SYRUP,2178,4,750,milliliters,4,26.76,No,Case,No,N/A,6.69,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.00892
+Gavina Coffee,"Syrup, Hazelnut Puremade",N/A,case,TORANI PUREMD HAZELNUT SYRUP,2179,4,750,milliliters,4,26.76,No,Case,No,N/A,6.69,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.00892
+Gavina Coffee,"Syrup, Vanilla Puremade Signature",N/A,case,TORANI PUREMD SIG VANILLA SYRUP,2180,4,750,milliliters,4,26.76,No,Case,No,N/A,6.69,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.00892
+Gavina Coffee,"Syrup, Brown Sugar Cinnamon",N/A,case,TORANI BROWN SUGAR CINNAMON SYRUP,2029,12,750,milliliters,9,80.28,No,Case,No,N/A,8.92,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.011893333
+Gavina Coffee,"Sauce, Dark Chocolate Torani Puremade",N/A,case,TORANI PUREMD DRK CHOC SAUCE,2171,4,64,ounces,4,72.76,No,Case,No,N/A,18.19,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.28421875
+Gavina Coffee,"Sauce, White Chocolate Torani Puremade",N/A,case,TORANI PUREMD WHT CHOC SAUCE,2172,4,64,ounces,4,72.76,No,Case,No,N/A,18.19,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.28421875
+Gavina Coffee,"Sauce, Caramel Puremade",N/A,case,TORANI PUREMD CARAMEL SAUCE,2174,4,64,ounces,4,72.76,No,Case,No,N/A,18.19,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.28421875
+Gavina Coffee,"Sauce, Pumpkin Pie",N/A,case,TORANI PUREMD PUMPKIN PIE SAUCE,2176,4,64,ounces,4,72.76,No,Case,No,N/A,0.284,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.0044375
+Gavina Coffee,"Pump, Torani Syrup",N/A,each,TORANI SYRUP PUMP,2038,1,1,each,1,3.04,No,Unit,No,N/A,3.04,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.04
+Gavina Coffee,"Equipment, Torani Sauce Pump",N/A,each,TORANI SAUCE PUMP,2039,1,1,each,1,3.04,No,Unit,No,N/A,3.04,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.04
+Gavina Coffee,"Filters, Tree Free",N/A,case,TREE FREE FILTERS,TO-TCMTF50,50,1,each,50,85.75,No,Case,No,N/A,1.715,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.715
+Gavina Coffee,"Filters, 13x5 Gemini",N/A,case,FILTERS 13X5 1.5GAL GEMINI,13265,500,1,each,500,15.62,No,Case,No,N/A,0.03124,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.03124
+Gavina Coffee,"Filters, Sys III 15x5.5",Generic,case,FILTERS SYS III 15X5.5,13269,500,1,each,500,22.85,No,Case,No,N/A,0.0457,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.0457
+Gavina Coffee,"Airpot, A001G22PBL",N/A,each,A001G22PBL AIRPOT,13359,1,1,each,1,47,No,Unit,No,N/A,47,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,47
+Gavina Coffee,"Cleaning Tablets, Cafiza Espresso Machine",N/A,case,CAFIZA ESPRESSO MACHINE CLEANING TABLETS,13422,100,2,grams,200,14.25,Yes,Case,Yes,14.25,0.07125,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.035625
+Gavina Coffee,"Airpot, 2.2L Lever Black",N/A,each,XA001LLIDBL REG AIRPOT 2.2L LEVER BLACK S/S LINED,2062,1,1,each,1,53.6,No,Unit,No,N/A,53.6,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,53.6
+Gavina Coffee,"Equipment, Eversys Coffee Cleaning",Generic,case,EVERSYS COFFEE CLEANING,EV-C101448,62,1,each,62,35,No,Case,No,N/A,0.5645,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.5645
+IFS,"Bag, Paper #6 White",PACKER,case,BAG PPR #6 WHT,6W,1,1,each,N/A,N/A,No,N/A,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Bag, T-Shirt 12x7x22 White",PACKER,case,BAG T-SHIRT 12X7X22 WHT 17MIC W/WARNING,18676,540,1,each,540,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Bag, Wax Dry #25 White",CAL BAG,case,BAG WAX DRY #25 6.5X1X8 WHITE PF,24367,2000,1,each,2000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Bleach, 6% EPA Reg",AROCEP,case,BLEACH 6% EPA REG 6/1 GAL,24541,6,1,gallon,6,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Box, Cake 10x10x4 White/Kraft",PERRINS,case,BOX CAKE 10X10X4 WHT/ KRFT L/C,26018,1,1,each,N/A,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Box, Cake 8x8x3 White Lock Corner",SANTA ANA,case,BOX CAKE 8X8X3 WHT LOCK CORNER,17957,200,1,each,200,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Can Liner, 40x48 Coreless HD",PACKER,case,CAN LINER 40X48 14 MIC CLR CORELESS HD,16518,250,1,each,250,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cleaner, Fabuloso Lavender",FABULOSO,case,CLEANER FABULOSO LAVENDER 33OZ,19895,12,33,oz,396,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cleaner, Glass Blue",CHEMCOR,each,CLEANER GLASS BLUE RTU,670-WINDOW,1,1,GAL,N/A,N/A,No,Unit,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Container, 96oz Coffee with Handle",LBP,case,CONT PPR 96 OZ FOR COFFEE W/HANDLE,JOETOGO,25,1,each,25,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, PET 16oz Mariachi",N/A,case,CUP PET 16OZ MARIACHI BAKERY,25843,1000,1,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, 24oz Mariachi Bakery",N/A,case,CUP PET 24OZ MARIACHI BAKERY,25844,600,1,each,600,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, Portion Plastic 2oz",IFS,case,CUP PORTION PLAST 2 OZ BLK PPB200,61252,10,1,each,10,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, Paper Hot 12oz",SOLO,case,CUP PPR HOT 12 OZ WHT,412WN,20,50,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, Paper Hot 16oz Single Wall",SMART,case,CUP PPR HOT 16 OZ WHT SINGLE WALL,49029,20,50,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, Paper Hot 20oz Single Wall",Individual,case,CUP PPR HOT 20 OZ WHT SINGLE WALL,49031,500,1,each,500,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, Paper Hot 4oz",SMART,case,CUP PPR HOT 4 OZ WHT,49142,20,50,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cutlery, Fork Full Size Heavy Black",IFS,case,CUTLERY FORK FULL SZ XHVY BLK PP,IFS-PPF-B,10,1,each,10,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cutlery, Heavy Knife Black",PERRIN'S,case,CUTLERY KNIFE XHVY PP BLK 3931,PP6KN-B,10,100,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cutlery, Full Size Spoon",IFS,case,CUTLERY SPOON FULL SZ XHVY BLK PP,IFS-PPS-B,10,100,each,100,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Degreaser, Liquid Pink",PERRIN'S,each,DEGREASER LIQUID PINK,ddegreaser,1,1,gallon,N/A,N/A,No,Unit,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Foil, Aluminum 12x10.75 Pop-Up Sheets",PACKER,case,FOIL ALUM 12X10.75 POPUP SHEETS,IFS721,6,500,each,3000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Gloves, Black Nyle Large Vinyl Blend",INDIVIDUAL,case,GLOVE BLACK NYLE LGE VINYL BLEND 4.7 GR,15435,100,10,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Juice, Orange Langer's",Langer's,case,JUICE ORANGE LANGER'S $.60 CRV INCLUD,G7808,12,16,oz,192,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Label, 1x7 Secure It Red Permanent",NATIONAL CHECK,case,"LABEL 1""X7"" SECURE IT RED PERMANENT",14571,2,250,each,500,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Labels, DCG IT 2x6 Permanent",NATIONAL CHECK,case,"LABELS DCG IT 2""X6"" SECURE IT PERMANENT",14563,4,165,each,660,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Lid, Plastic Dome 16-24oz",KARAT,case,LID PLAST 16-24 OZ DOME W/HOLE 98MM,C-KDL626,20,50,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Lid, Plastic Dome Black",KARAT,case,LID PLAST DOME BLK 12-24 OZ,C-KDL516B,20,50,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Lid, Plastic Sip 12-24oz Flat",KARAT,case,LID PLAST SIP LID 12-24 OZ CLR FLAT (PET,11161,20,50,each,1000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Lid, Portion Plastic 2oz Solo",DART/SOLO,case,LID PORTION PLAST 2 OZ SOLO PETE,PL200N,20,1,each,20,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Java Jacket, White Matte, Mariachi Bakery",Brite Vision,case,MARIACHI BAKERY JAVA JACKET WHITE MATTE,26260,1200,1,each,1200,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Napkin Dispenser, 8.5x13 1-P",SCA,case,NAPKIN DISP 8.5X13 1-PLY NAT 1/4FOLD,DX906E,12,500,each,6000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Oil, Olive Pure",Messina/San Ma,case,OIL OLIVE PURE PLASTIC JUG,G3649,6,1,gallon,6,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Oil, Canola Pan Coating",WHITE CAP,case,OIL PAN COATING CANOLA OIL BASED,G7818,6,17,oz,102,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Pan Liner, 16-3/8x12.25",WALSH,each,PAN LINER 16-3/8X12.25 QUILON 24#,27-1/2-1M,1,1,each,N/A,N/A,No,Unit,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Paper Roll, 3x165 White Bond 1Ply",PACKER,case,"PPR ROLL 3""X165"" WHT BOND 1PLY",112-701,50,1,each,50,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Paper Roll, Thermal 3-1/8x220 BPA",SMART,case,PPR ROLL THERMAL 3-1/8X220'48GSM BPA-FRE,140-733,50,1,each,50,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Dish Soap, Liquid Amber",PERRIN'S,case,SOAP DISH LIQUID AMBER,KSLD4,4,1,gallon,4,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Soap, Hand Pink Pearl Almond",LUSEAUX,each,SOAP HAND PINK PEARL ALMOND,KSLH-1,1,1,gallon,N/A,N/A,No,Unit,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Soda, Jarritos Mineral Bottled",JARRITOS,case,SODA BOTTLED MINERAL JARRITOS,G7226,24,12.5,oz,300,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Soda, Diet Coke",Coca Cola,case,SODA COKE DIET PLAST 20OZ,G8901,24,1,fl oz,24,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Soda, Coke Mexican Glass",Coca Cola,case,SODA COKE MEXICAN GLASS,G7234,24,1,L,24,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Soda, Sidral Mundet Apple",Sidral Mundet,case,SODA SIDRAL MUNDET APPLE GLASS,G721,24,1,fl oz,24,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Straw, 10.25"" Giant Black Wrapped",POLY KING,case,"STRAW 10.25"" GIANT BLK WRAPPED",39211,10,300,N/A,N/A,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+,,,,,,,,,,,,,,,,,,,0
+IFS,"Sugar, White Granulated",C&H,case,SUGAR C&H WHITE GRANULATED 50LB,G9270,1,50,lb,50,N/A,Yes,Case,Yes,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Tissue, Toilet Jumbo Jr 2Ply",IFS,case,TISSUE TOILET JUMBO JR 2PLY 9IN,18394,12,1,each,12,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Towel, Multifold Kraft",Golden Gate,case,TOWEL MULTIFOLD KRAFT 1-PLY,18369,16,250,each,4000,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Tray, Pulp 4-Cup Carrier",PACKER,case,TRAY PULP 4-CUP CARRIER 8-32OZ,14960,1,1,each,N/A,N/A,No,N/A,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Water, Spring Crystal Geyser",CRYSTAL GEYSER,case,WATER SPRING CRYSTAL GEYSER SPRT CAP,G7485,24,23.6,oz,N/A,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Water, Spring Gallon Crystal Geyser",CRYSTAL GEYSER,case,WATER SPRING GALLON CRYSTAL GEYSER,G7597,6,1,GAL,6,N/A,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+JB Distribution,"Pan Liner, 16-3/8x24-3/8",Quilom,case,"Pan Liner (16-3/8""x 24-3/8"")",N/A,1000,1,each,1000,42.39,No,Case,No,N/A,0.04239,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.04239
+JB Distribution,"Sugar, Powder",C&H,each,Powder Sugar,N/A,1,1,pounds,50,45.65,Yes,Unit,Yes,45.65,0.913,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.913
+JB Distribution,"Sugar, Fine Granulated",C&H,each,Fine Gran Sugar,N/A,1,1,pound,50,36.49,Yes,Unit,Yes,36.49,0.7298,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.7298
+JB Distribution,"Glaze, Strawberry Bucket",Puratos,each,Strawberry Glaze Bucket,N/A,1,1,pound,20,31.8,Yes,Unit,Yes,31.8,1.59,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.59
+JB Distribution,"Ganache, Chocolate Belco",Puratos,each,Chocolate Ganache Nonhydro Belco,N/A,1,1,pounds,20,87.99,Yes,Unit,Yes,87.99,4.3995,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,4.3995
+JB Distribution,"Croissant, DU Extra Large",JB,case,Croissant DU Extra Large,N/A,1,1,each,N/A,38,No,Case,No,N/A,N/A,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,N/A
+JB Distribution,"Macaroon, Coconut",Packer,each,Macaroon Coconut Bag,N/A,1,1,pounds,25,49.5,Yes,Unit,Yes,49.5,1.98,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.98
+JB Distribution,"Eggs, Medium White Loose",N/A,case,Medium WHITE Loose AA,N/A,15,1,each,180,49.5,No,Case,No,N/A,0.275,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.275
+Le Chef Bakery,"Croissant, Chocolate Bar",LeChef,case,"Croissant, Chocolate Bar, Large Straight",CR037,63,4,oz,63,79.31,No,Case,No,N/A,1.26,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.315
+Le Chef Bakery,"Croissant, Almond",LeChef,case,"Croissant, Almond, Large Straight, All Butter/Natural",CR015-NAT,54,4,oz,54,72.23,No,Case,No,N/A,1.34,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.335
+Le Chef Bakery,"Croissant, Jalapeno Cream Cheese",LeChef,case,"Croissant, Jalapeno Cream Cheese",CR097,72,4,oz,72,89.48,No,Case,No,N/A,1.24,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.31
+Le Chef Bakery,"Croissant, Dulce De Leche Cheese",LeChef,case,"Croissant, Dulce De Leche Cheese",CR086-48,48,4,oz,48,59.65,No,Case,No,N/A,1.24,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.31
+Le Chef Bakery,"Strudel, Guava Cream Cheese",LeChef,case,"Strudel, Guava Cream Cheese",PP077-48,48,3.3,oz,48,41.83,No,Case,No,N/A,0.87,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.263636364
+Panaderia Mexico,"Elote, Fino",PanMex,each,"Fino, Elote",N/A,1,1,each,1,0.45,No,Unit,No,N/A,0.45,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.45
+Panaderia Mexico,"Cuerno, Fino",PanMex,Each,"Fino, Cuerno",N/A,1,1,Each,1,0.45,No,Unit,No,N/A,0.45,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.45
+Panaderia Mexico,Puerquito,PanMex,Each,Puerquito,N/A,1,1,Each,1,0.45,No,Unit,No,N/A,0.45,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.45
+Paris Croissants,"Strudel, Guava",Paris,Case,"Strudel, Guava CC",524,90,1,each,90,38,No,Case,No,N/A,0.422222222,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.422222222
+Paris Croissants,"Strudel, Cream Cheese",Paris,Case,"Strudel, Cream Cheese",515,90,1,each,90,38,No,Case,No,N/A,0.42,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.42
+Paris Croissants,"Croissant, Pork Shoulder Picnic Cheese",Paris,Case,PSP (Pork Shoulder Picnic) Cheese Croissant,305,50,1,Each,50,57,No,Case,No,N/A,1.14,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,1.14
+Paris Croissants,"Croissant, Cream Cheese",Paris,Case,"Croissant, Cream Cheese",200,50,1,Each,50,38,No,Case,No,N/A,0.76,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.76
+Paris Croissants,"Croissant, Guava Cream Cheese",Paris,Case,"Croissant, Guava Cream Cheese",240,50,1,Each,50,38,No,Case,No,N/A,0.76,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.76
+Shamrock,"Milk, 2% Reduced Fat",Shamrock Farms,case,"Milk, 2% Reduced Fat Californa Standard",4827481,2,1,Gallon,2,7.41,No,Case,No,N/A,3.705,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.705
+Shamrock,"Milk, Oat Non-Dairy",Califia Farms,case,"Milk, Oat Non Dairy Plain Liquid 32 oz",3752,12,32,Fluid Ounce,12,30.73,No,Case,No,N/A,2.561,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.08003125
+Shamrock,"Milk, Almond Non-Dairy",Califia Farms,case,"Milk, Almond Non Dairy Plain Liquid 32 oz",4324,12,32,Fluid Ounce,12,30.73,No,Case,No,N/A,2.561,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.08003125
+Shamrock,Half & Half,Shamrock Farms,case,Half  & Half,4968201,6,64,Fluid Ounce,6,27.5,No,Case,No,N/A,4.583,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.071609375
+Shamrock,"Cream, Heavy Whipping Pasteurized",Shamrock Farms,case,"Cream, Heavy Whipping 40% Pasteurized Mfg Cream",4827461,6,64,Fluid Ounce,6,54.29,No,Case,No,N/A,9.048,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.141375
+Shamrock,"Roll, Telera Sandwich Sliced",La Brea,case,"Roll, Telera Sandwich Sliced",2925691,96,3,Ounce,96,52.9,No,Case,No,N/A,0.552,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.184
+Shamrock,"Eggs, Medium White Loose AA",Fair Meadows,case,Medium WHITE Loose AA,4852091,15,1,Dozen,15,48.52,No,Case,No,N/A,3.234,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.234
+Shamrock,"Equipment, Charger",Whip It,Pack,Charger,1986201,1,24,each,1,12.87,No,Pack,No,N/A,12.87,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.53625
+Shamrock,"Cheese, Pepper Jack Sliced",Cobblestreet Market Originals,Case,"Cheese, Pepper Jack Natural SLICED .75 OZ",4470791,4,2.5,Pound,4,37.04,Yes,Case,Yes,37.04,9.26,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,3.704
+Shamrock,"Muffin, Cinnamon Walnut",Brickfire Bakery Distinctions,case,"Muffin, Cinnamon Walnut Streusel Gourmet",4129531,48,4.25,ounces,48,55.26,No,Case,No,N/A,1.152,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.271058824
+Smart n Final,"Ham, Jones Slices",Jones Farms,each,Jones Ham Slices,N/A,1,24,oz,1,9.99,No,Unit,No,N/A,9.99,consolidated_inventory_output.csv,02-10-2024 16:14,Yes,0.41625
+Gavina Coffee,"Sauce, White Chocolate Torani",N/A,case,TORANI PUREMD WHT CHOC SAUCE,2172,4,64,ounces,4,72.76,No,Case,No,N/A,18.19,processed_Purchase Guide - Mariachi Bakery_Gavina.csv,02-10-2024 16:14,Yes,0.28421875
+Gavina Coffee,"Filters, Sys III 15x5.5",N/A,case,FILTERS SYS III 15X5.5,13269,500,1,each,500,22.85,No,Case,No,N/A,0.0457,processed_Purchase Guide - Mariachi Bakery_Gavina.csv,02-10-2024 16:14,Yes,0.0457
+Gavina Coffee,"Espresso Machine Cleaning Tablets, Cafiza",N/A,case,CAFIZA ESPRESSO MACHINE CLEANING TABLETS,13422,100,2,grams,200,14.25,Yes,Case,Yes,14.25,0.07125,processed_Purchase Guide - Mariachi Bakery_Gavina.csv,02-10-2024 16:14,Yes,0.035625
+Gavina Coffee,"Equipment, Eversys Coffee Cleaning",N/A,case,EVERSYS COFFEE CLEANING,EV-C101448,62,1,each,62,35,No,Case,No,N/A,0.5645,processed_Purchase Guide - Mariachi Bakery_Gavina.csv,02-10-2024 16:14,Yes,0.5645
+IFS,"Cup, PET 16oz Mariachi Bakery",N/A,case,CUP PET 16OZ MARIACHI BAKERY,25843,1000,1,each,N/A,N/A,No,Case,No,N/A,N/A,processed_Purchase Guide - Mariachi Bakery_IFS.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cup, Paper Hot 4oz White",SMART,case,CUP PPR HOT 4 OZ WHT,49142,20,50,each,N/A,N/A,No,Case,No,N/A,N/A,processed_Purchase Guide - Mariachi Bakery_IFS.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Cutlery, Full Size Heavy Black Fork",IFS,case,CUTLERY FORK FULL SZ XHVY BLK PP,IFS-PPF-B,10,100,each,N/A,N/A,No,Case,No,N/A,N/A,processed_Purchase Guide - Mariachi Bakery_IFS.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Java Jacket, White Matte",BRITE VISION,case,MARIACHI BAKERY JAVA JACKET WHITE MATTE,26260,1200,1,each,1200,N/A,No,Case,No,N/A,N/A,processed_Purchase Guide - Mariachi Bakery_IFS.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Soda, Jarritos Mineral",JARRITOS,case,SODA BOTTLED MINERAL JARRITOS,G7226,24,12.5,oz,300,N/A,No,Case,No,N/A,N/A,processed_Purchase Guide - Mariachi Bakery_IFS.csv,02-10-2024 16:14,Yes,N/A
+IFS,"Sugar, C&H Dark Brown",C&H,case,SUGAR C&H DARK BROWN YELLOW D,G9268,1,50,LB,50,N/A,Yes,Case,Yes,N/A,N/A,processed_Purchase Guide - Mariachi Bakery_IFS.csv,02-10-2024 16:14,Yes,N/A
+JB Distribution,"Sugar, Fine Gran",C&H,each,Fine Gran Sugar,N/A,N/A,1,pounds,50,36.49,Yes,Unit,Yes,36.49,0.7298,processed_Purchase Guide - Mariachi Bakery_JB Dist.csv,02-10-2024 16:14,Yes,0.7298
+JB Distribution,"Eggs, Medium White AA",N/A,case,Medium WHITE Loose AA,N/A,15,1,each,180,49.5,No,Case,No,N/A,0.275,processed_Purchase Guide - Mariachi Bakery_JB Dist.csv,02-10-2024 16:14,Yes,0.275
+Shamrock,"Eggs, Medium White AA",Fair Meadows,case,Medium WHITE Loose AA,4852091,15,1,dozen,15,48.52,No,Case,No,N/A,3.234,processed_Purchase Guide - Mariachi Bakery_Shamrock.csv,02-10-2024 16:14,Yes,3.234
+Shamrock,"Charger, Generic",Whip It,Pack,Charger,1986201,1,24,each,1,12.87,No,Pack,No,N/A,12.87,processed_Purchase Guide - Mariachi Bakery_Shamrock.csv,02-10-2024 16:14,Yes,0.53625
+Costco,Chai,Whip It,Pack,Charger,1986201,1,1,Ounces,,,,,,,0.5,,,,0.5

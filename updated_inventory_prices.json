@@ -1,0 +1,23 @@
+[
+  {
+    "Supplier Name": "Sysco",
+    "Inventory Item Name": "Lettuce, Salad Mix",
+    "Brand": "Generic",
+    "Inventory Unit of Measure": "case",
+    "Item Name": "Lettuce Salad Mix Tossed Fresh",
+    "Item Number": 1675586,
+    "Quantity In a Case": 1,
+    "Measurement Of Each Item": 5,
+    "Measured In": "Pounds",
+    "Total Units": 20,
+    "Case Price": 0,
+    "Catch Weight": NaN,
+    "Priced By": "per pound",
+    "Splitable": "No",
+    "Split Price": NaN,
+    "Cost of a Unit": 0,
+    "Category": "produce",
+    "Last Updated At": "11/23/2024 15:42",
+    "Active": "Yes"
+  }
+]

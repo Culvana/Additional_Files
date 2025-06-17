@@ -1,0 +1,30 @@
+{
+  "almond flour": [
+    {
+      "name": "Nature's Eats Blanched Almond Flour, 32 oz",
+      "price": 10.98,
+      "unit": "oz",
+      "store": "Walmart",
+      "url": "https://www.walmart.com/search?q=almond+flour",
+      "timestamp": "2024-11-23T19:48:29.044734"
+    }
+  ],
+  "olive oil": [
+    {
+      "name": "Bertolli Sustainably Sourced Extra Virgin Olive Oil",
+      "price": 9.47,
+      "unit": "16.9 fl oz",
+      "store": "Walmart",
+      "url": "https://www.walmart.com/search?q=olive+oil",
+      "timestamp": "2024-11-23T19:48:47.889114"
+    },
+    {
+      "name": "Extra Virgin Olive Oil - Cold Processed, Mediterranean Blend",
+      "price": 33.8,
+      "unit": "fl oz",
+      "store": "365 by Whole Foods Market",
+      "url": "https://www.wholefoodsmarket.com/search?q=olive+oil",
+      "timestamp": "2024-11-23T19:48:56.489056"
+    }
+  ]
+}

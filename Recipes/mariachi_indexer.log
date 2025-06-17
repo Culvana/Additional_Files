@@ -1,0 +1,1268 @@
+2024-11-07 14:27:38,368 - INFO - Existing index deleted successfully
+2024-11-07 14:27:38,862 - INFO - Search index created successfully
+2024-11-07 14:27:45,099 - ERROR - Error processing item: Error code: 400 - {'error': {'message': "We could not parse the JSON body of your request. (HINT: This likely means you aren't using your HTTP library correctly. The OpenAI API expects a JSON payload, but what was sent was not valid JSON. If you have trouble figuring out how to fix this, please contact us through our help center at help.openai.com.)", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2024-11-07 14:27:48,142 - INFO - Processing complete. Successful: 172, Failed: 1
+2024-11-07 14:27:48,770 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:48,770 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:48,841 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:48,910 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:48,992 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,058 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,138 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,191 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,259 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,342 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,408 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,475 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,774 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,774 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:49,839 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,892 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:49,956 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,009 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,086 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,150 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,222 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,292 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,373 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,441 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,725 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,725 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:50,791 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,840 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,909 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:50,957 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,025 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,090 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,157 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,238 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,290 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,360 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,641 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,641 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:51,706 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,774 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,850 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,905 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:51,986 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,057 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,120 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,186 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,253 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,320 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,589 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,589 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:52,649 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,726 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,803 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,869 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:52,925 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,008 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,107 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,175 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,240 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,315 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,559 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,559 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:53,650 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,715 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,789 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,854 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:53,935 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,022 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,089 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,156 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,239 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,357 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,570 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,570 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:54,639 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,705 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,761 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,853 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,920 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:54,986 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,062 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,121 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,189 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,262 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,469 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,469 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:55,537 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,588 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,654 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,705 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,805 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,888 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:55,955 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,007 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,086 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,155 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,352 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,354 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:56,422 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,487 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,553 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,616 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,699 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,787 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,855 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,919 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:56,970 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,049 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,238 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,238 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:57,309 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,353 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,419 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,487 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,554 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,618 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,686 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,755 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,820 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:57,886 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,048 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,052 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:58,122 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,170 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,217 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,268 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,320 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,385 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,437 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,503 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,568 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,632 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,801 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,801 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:58,851 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,917 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:58,954 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,019 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,084 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,148 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,218 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,281 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,348 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,417 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,551 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,551 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:27:59,616 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,683 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,750 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,808 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,866 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,922 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:27:59,983 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,048 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,100 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,181 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,316 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,316 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:28:00,383 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,434 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,500 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,566 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,631 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,697 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,761 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,816 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,901 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:00,968 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,109 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,125 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:28:01,182 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,249 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,326 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,382 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,449 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,515 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,582 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,649 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,715 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,769 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,955 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:01,955 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:28:02,015 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,081 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,146 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,199 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,264 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,331 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,384 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,553 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,615 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,730 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,730 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:28:02,781 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,847 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,897 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:02,977 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,047 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,110 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,178 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,244 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,314 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,377 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,464 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,464 - WARNING - Batch upload failed, attempting individual uploads
+2024-11-07 14:28:03,530 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,606 - ERROR - Error uploading batch: () The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+Code: 
+Message: The request is invalid. Details: Invalid JSON. A token was not recognized in the JSON content.
+2024-11-07 14:28:03,606 - INFO - Upload complete. Successfully uploaded: 1, Failed: 171
+2024-11-07 14:28:03,606 - INFO - Indexing process completed successfully
+2024-11-07 14:29:58,639 - INFO - Existing index deleted
+2024-11-07 14:29:59,151 - INFO - Search index created successfully
+2024-11-07 14:30:05,601 - ERROR - Empty inventory item name for ID: _
+2024-11-07 14:30:09,073 - INFO - Processing complete. Successful: 172, Failed: 1
+2024-11-07 14:30:09,314 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,343 - ERROR - Failed to upload document: _Ace Wholesale
+2024-11-07 14:30:09,391 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,393 - ERROR - Failed to upload document: _Ace Wholesale
+2024-11-07 14:30:09,430 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Ace Wholesale'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,430 - ERROR - Failed to upload document: _Ace Wholesale
+2024-11-07 14:30:09,478 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,482 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,526 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,526 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,569 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,575 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,615 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,615 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,662 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,667 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,709 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,709 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,759 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,759 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,807 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,809 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,851 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,857 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,893 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,893 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,948 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,948 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:09,998 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:09,998 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,044 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,044 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,092 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,096 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,142 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,144 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,180 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,190 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,232 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,232 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,293 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Carrusel Bakery'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,293 - ERROR - Failed to upload document: _Carrusel Bakery
+2024-11-07 14:30:10,358 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,370 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,444 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,444 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,509 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,522 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,590 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,590 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,659 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,670 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,735 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,735 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,801 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,816 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,889 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,892 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:10,964 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:10,965 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:11,040 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:11,042 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:11,108 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Corazon Catering'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:11,108 - ERROR - Failed to upload document: _Corazon Catering
+2024-11-07 14:30:11,908 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'JJ145_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'JJ145_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'JJ145_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'JJ145_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:11,918 - ERROR - Failed to upload document: JJ145_Divine Specialties
+2024-11-07 14:30:12,002 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'JJ520_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'JJ520_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'JJ520_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'JJ520_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,008 - ERROR - Failed to upload document: JJ520_Divine Specialties
+2024-11-07 14:30:12,091 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'JJ170_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'JJ170_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'JJ170_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'JJ170_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,091 - ERROR - Failed to upload document: JJ170_Divine Specialties
+2024-11-07 14:30:12,173 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'JJ242_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'JJ242_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'JJ242_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'JJ242_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,174 - ERROR - Failed to upload document: JJ242_Divine Specialties
+2024-11-07 14:30:12,246 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2192_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2192_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2192_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2192_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,254 - ERROR - Failed to upload document: 2192_Gavina Coffee
+2024-11-07 14:30:12,324 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '226_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '226_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '226_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '226_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,324 - ERROR - Failed to upload document: 226_Gavina Coffee
+2024-11-07 14:30:12,390 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '394_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '394_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '394_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '394_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,409 - ERROR - Failed to upload document: 394_Gavina Coffee
+2024-11-07 14:30:12,475 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '9000_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '9000_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '9000_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '9000_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,478 - ERROR - Failed to upload document: 9000_Gavina Coffee
+2024-11-07 14:30:12,547 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'FCCCO_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'FCCCO_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'FCCCO_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'FCCCO_Divine Specialties'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,556 - ERROR - Failed to upload document: FCCCO_Divine Specialties
+2024-11-07 14:30:12,625 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '696_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '696_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '696_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '696_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,625 - ERROR - Failed to upload document: 696_Gavina Coffee
+2024-11-07 14:30:12,702 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '3353_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '3353_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '3353_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '3353_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,708 - ERROR - Failed to upload document: 3353_Gavina Coffee
+2024-11-07 14:30:12,774 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2186_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2186_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2186_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2186_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,779 - ERROR - Failed to upload document: 2186_Gavina Coffee
+2024-11-07 14:30:12,857 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '782_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '782_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '782_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '782_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,857 - ERROR - Failed to upload document: 782_Gavina Coffee
+2024-11-07 14:30:12,935 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2103_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2103_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2103_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2103_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:12,944 - ERROR - Failed to upload document: 2103_Gavina Coffee
+2024-11-07 14:30:13,007 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2001_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2001_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2001_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2001_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,020 - ERROR - Failed to upload document: 2001_Gavina Coffee
+2024-11-07 14:30:13,090 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2016_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2016_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2016_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2016_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,090 - ERROR - Failed to upload document: 2016_Gavina Coffee
+2024-11-07 14:30:13,174 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2006_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2006_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2006_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2006_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,174 - ERROR - Failed to upload document: 2006_Gavina Coffee
+2024-11-07 14:30:13,269 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2179_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2179_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2179_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2179_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,274 - ERROR - Failed to upload document: 2179_Gavina Coffee
+2024-11-07 14:30:13,348 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2178_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2178_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2178_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2178_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,355 - ERROR - Failed to upload document: 2178_Gavina Coffee
+2024-11-07 14:30:13,421 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2029_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2029_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2029_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2029_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,435 - ERROR - Failed to upload document: 2029_Gavina Coffee
+2024-11-07 14:30:13,505 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2171_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2171_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2171_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2171_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,515 - ERROR - Failed to upload document: 2171_Gavina Coffee
+2024-11-07 14:30:13,589 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2180_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2180_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2180_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2180_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,589 - ERROR - Failed to upload document: 2180_Gavina Coffee
+2024-11-07 14:30:13,673 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,679 - ERROR - Failed to upload document: 2172_Gavina Coffee
+2024-11-07 14:30:13,740 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2174_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2174_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2174_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2174_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,740 - ERROR - Failed to upload document: 2174_Gavina Coffee
+2024-11-07 14:30:13,823 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2038_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2038_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2038_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2038_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,825 - ERROR - Failed to upload document: 2038_Gavina Coffee
+2024-11-07 14:30:13,907 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2039_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2039_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2039_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2039_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,911 - ERROR - Failed to upload document: 2039_Gavina Coffee
+2024-11-07 14:30:13,974 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'TO-TCMTF50_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'TO-TCMTF50_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'TO-TCMTF50_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'TO-TCMTF50_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:13,988 - ERROR - Failed to upload document: TO-TCMTF50_Gavina Coffee
+2024-11-07 14:30:14,056 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2176_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2176_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2176_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2176_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,056 - ERROR - Failed to upload document: 2176_Gavina Coffee
+2024-11-07 14:30:14,140 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '13359_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '13359_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '13359_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '13359_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,149 - ERROR - Failed to upload document: 13359_Gavina Coffee
+2024-11-07 14:30:14,221 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,234 - ERROR - Failed to upload document: 13269_Gavina Coffee
+2024-11-07 14:30:14,291 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '13265_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '13265_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '13265_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '13265_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,304 - ERROR - Failed to upload document: 13265_Gavina Coffee
+2024-11-07 14:30:14,371 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,371 - ERROR - Failed to upload document: 13422_Gavina Coffee
+2024-11-07 14:30:14,452 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,452 - ERROR - Failed to upload document: EV-C101448_Gavina Coffee
+2024-11-07 14:30:14,535 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2062_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2062_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2062_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2062_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:14,535 - ERROR - Failed to upload document: 2062_Gavina Coffee
+2024-11-07 14:30:16,705 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '27-1/2-1M_IFS'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '27-1/2-1M_IFS'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '27-1/2-1M_IFS'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '27-1/2-1M_IFS'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:16,717 - ERROR - Failed to upload document: 27-1/2-1M_IFS
+2024-11-07 14:30:17,990 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:17,990 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,067 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,067 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,153 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,157 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,232 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,232 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,296 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,296 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,378 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,378 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,453 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,453 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,530 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,530 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:18,599 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'CR015-NAT_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'CR015-NAT_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'CR015-NAT_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'CR015-NAT_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:18,599 - ERROR - Failed to upload document: CR015-NAT_Le Chef Bakery
+2024-11-07 14:30:18,681 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'CR097_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'CR097_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'CR097_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'CR097_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:18,698 - ERROR - Failed to upload document: CR097_Le Chef Bakery
+2024-11-07 14:30:18,769 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'CR086-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'CR086-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'CR086-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'CR086-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:18,782 - ERROR - Failed to upload document: CR086-48_Le Chef Bakery
+2024-11-07 14:30:18,854 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'PP077-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'PP077-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'PP077-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'PP077-48_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:18,867 - ERROR - Failed to upload document: PP077-48_Le Chef Bakery
+2024-11-07 14:30:18,954 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:18,954 - ERROR - Failed to upload document: _Panaderia Mexico
+2024-11-07 14:30:19,032 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:19,032 - ERROR - Failed to upload document: _Panaderia Mexico
+2024-11-07 14:30:19,118 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'CR037_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'CR037_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'CR037_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'CR037_Le Chef Bakery'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:19,118 - ERROR - Failed to upload document: CR037_Le Chef Bakery
+2024-11-07 14:30:19,186 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '524_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '524_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '524_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '524_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:19,186 - ERROR - Failed to upload document: 524_Paris Croissants
+2024-11-07 14:30:19,235 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Panaderia Mexico'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:19,235 - ERROR - Failed to upload document: _Panaderia Mexico
+2024-11-07 14:30:19,286 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '305_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '305_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '305_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '305_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:19,286 - ERROR - Failed to upload document: 305_Paris Croissants
+2024-11-07 14:30:19,361 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '200_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '200_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '200_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '200_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:19,361 - ERROR - Failed to upload document: 200_Paris Croissants
+2024-11-07 14:30:19,454 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '515_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '515_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '515_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '515_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:19,454 - ERROR - Failed to upload document: 515_Paris Croissants
+2024-11-07 14:30:19,604 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '240_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '240_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '240_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '240_Paris Croissants'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:19,604 - ERROR - Failed to upload document: 240_Paris Croissants
+2024-11-07 14:30:20,326 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_Smart n Final'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_Smart n Final'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_Smart n Final'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_Smart n Final'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:20,331 - ERROR - Failed to upload document: _Smart n Final
+2024-11-07 14:30:20,484 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '2172_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:20,488 - ERROR - Failed to upload document: 2172_Gavina Coffee
+2024-11-07 14:30:20,556 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '13269_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:20,556 - ERROR - Failed to upload document: 13269_Gavina Coffee
+2024-11-07 14:30:20,632 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '13422_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:20,632 - ERROR - Failed to upload document: 13422_Gavina Coffee
+2024-11-07 14:30:20,701 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: 'EV-C101448_Gavina Coffee'. Keys can only contain letters, digits, underscore (_), dash (-), or equal sign (=). If the keys in your source data contain other characters, we recommend encoding them with a URL-safe version of Base64 before uploading them to your index. If that is not an option, you can add the 'allowUnsafeKeys' query string parameter to disable this check. Parameters: actions
+2024-11-07 14:30:20,713 - ERROR - Failed to upload document: EV-C101448_Gavina Coffee
+2024-11-07 14:30:21,114 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:21,118 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:21,185 - ERROR - Batch upload error: (InvalidName) The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Code: InvalidName
+Message: The request is invalid. Details: actions : 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore.
+Exception Details:	(InvalidDocumentKey) 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+	Code: InvalidDocumentKey
+	Message: 0: Invalid document key: '_JB Distribution'. Keys cannot start with a leading underscore. Parameters: actions
+2024-11-07 14:30:21,185 - ERROR - Failed to upload document: _JB Distribution
+2024-11-07 14:30:21,585 - INFO - Upload complete. Successful: 77, Failed: 95
+2024-11-07 14:30:21,585 - INFO - Indexing process completed
+2024-11-07 14:32:49,745 - INFO - Existing index deleted
+2024-11-07 14:32:50,160 - INFO - Search index created successfully
+2024-11-07 14:32:56,231 - ERROR - Empty inventory item name for index: 120
+2024-11-07 14:32:59,484 - INFO - Processing complete. Successful: 172, Failed: 1
+2024-11-07 14:33:02,298 - INFO - Upload complete. Successful: 172, Failed: 0
+2024-11-07 14:33:02,313 - INFO - Indexing process completed
